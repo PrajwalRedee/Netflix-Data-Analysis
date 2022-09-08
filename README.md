@@ -17,3 +17,6 @@ Download the data from the above data url.
 * Pie chart to show the most number of counts between Tv Shows and Movies
 
 ## Screenshots
+
+![netflix counts](https://user-images.githubusercontent.com/94665209/189034082-66ca387d-63a3-460c-838e-e149b641da39.PNG)
+
