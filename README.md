@@ -19,6 +19,8 @@ Download the data from the above data url.
 ## Graphs
 
 ![netflix counts](https://user-images.githubusercontent.com/94665209/189034082-66ca387d-63a3-460c-838e-e149b641da39.PNG)
+
 ![netflix1](https://user-images.githubusercontent.com/94665209/189034259-6f1072ee-7726-41fe-b779-d4ccb0ca3ad4.PNG)
+
 ![netflix2](https://user-images.githubusercontent.com/94665209/189034271-55d9882d-6005-4bb2-bad6-9a35648f6d27.PNG)
 
