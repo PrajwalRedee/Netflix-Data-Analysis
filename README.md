@@ -6,7 +6,7 @@ Analysis on Netflix data
 
 ## Dataset
 
-url = https://www.bankbazaar.com/gold-rate/gold-rate-trend-in-india.html
+url = https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 Download the data from the above data url.
 ## Summary
